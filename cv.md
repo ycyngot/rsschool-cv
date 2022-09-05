@@ -1,29 +1,48 @@
-Julia Cyngot
-Contacts
-email: ycyngot@gmail.com
-GitHub: ycyngot
-Discord: Julia Cyngot#8092
+# **Julia Cyngot**
+
+### **Contacts**
+
+email: [ycyngot@gmail.com]
+GitHub: [ycyngot]
+Discord: [Julia Cyngot#8092]
+Telegram: [@citaulon]
 Address: Khabarovsk, Russia
 
-About me
+### **About me**
+
 I am 22 years old, a recent graduate of art school and aspiring front-end developer, currently learning new professional skills.
 
-Education: BA in Design
+### **Education**
+
+BA in Design
 Higher School of Economics
 2017-2021
 
-Hard skills:
-HTML
-CSS
-Git&GitHub
-Figma
-Adobe Photoshop
+### **Hard skills**
 
-Relevant Coursework
+- HTML
+- CSS
+- Git&GitHub
+- Figma
+- Adobe Photoshop
+
+### **Relevant Coursework**
+
 JavaScript/Front-end Course
 RS School
 2022
 
-Languages
-Russian - Native
-English - C1
+### **Languages**
+
+- Russian - Native
+- English - C1
+
+### **Code Examples**
+
+```
+const calcDisplayBalance = function (movements) {
+  const balance = movements.reduce((acc, mov) => acc + mov, 0);
+  labelBalance.textContent = `${balance} €`;
+};
+
+```
