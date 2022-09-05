@@ -28,6 +28,7 @@ Higher School of Economics
 
 - HTML
 - CSS
+- JavaScript
 - Git&GitHub
 - Figma
 - Adobe Photoshop
