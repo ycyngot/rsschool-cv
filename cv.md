@@ -2,10 +2,10 @@
 
 ### **Contacts**
 
-email: [ycyngot@gmail.com]
-GitHub: [ycyngot]
-Discord: [Julia Cyngot#8092]
-Telegram: [@citaulon]
+email: [ycyngot@gmail.com] (mailto:ycyngot@gmail.com)
+GitHub: [ycyngot] (https://github.com/ycyngot)
+Discord: [Julia Cyngot#8092] (https://discordapp.com/users/986880780259196938/)
+Telegram: [@citaulon] (https://t.me/citulon)
 Address: Khabarovsk, Russia
 
 ### **About me**
