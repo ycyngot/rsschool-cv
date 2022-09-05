@@ -19,7 +19,9 @@ I am 22 years old, a recent graduate of art school and aspiring front-end develo
 ### **Education**
 
 BA in Design
+
 Higher School of Economics
+
 2017-2021
 
 ### **Hard skills**
@@ -33,7 +35,9 @@ Higher School of Economics
 ### **Relevant Coursework**
 
 JavaScript/Front-end Course
+
 RS School
+
 2022
 
 ### **Languages**
